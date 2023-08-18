@@ -1,0 +1,28 @@
+{
+    "name": "payamak-panel",
+    "version": "1.0.0",
+    "description": "payamak-panel Nodejs Webservice Wrapper",
+    "main": "rest-sample.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/payamak-panel/Node.js.git"
+    },
+    "keywords": [
+        "nodejs"
+    ],
+    "author": " ",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/payamak-panel/Node.js/issues"
+    },
+    "dependencies": {
+        "soap": "^0.23.0"
+    },
+    "homepage": "https://github.com/payamak-panel/Node.js#readme"
+}
